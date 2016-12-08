@@ -1,0 +1,18 @@
+{
+ "Environment" : {
+    "Name": "INT",
+    "Url": "https://testurl/",
+    "ValidUser": {
+      "UserName": "validuserid",
+      "PassWord": "validpwd"
+    },
+    "InValidUser": {
+      "UserName": "wronguser",
+      "PassWord": "wrongpwd"
+    }
+  },
+  "Debug": true,
+  "TestSuitePath" : "D:\\EXPERIMENT\\CASPER\\testcases",
+  "TestInputFile": "Input.json",
+  "TestSuiteOutputPath" : "D:\\EXPERIMENT\\CASPER\\testoutput"
+}

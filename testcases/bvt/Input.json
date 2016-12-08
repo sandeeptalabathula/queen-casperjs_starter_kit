@@ -1,0 +1,20 @@
+{
+  "TestCases": [
+    {
+      "ID": 0,
+      "TestCaseID": "LoginBVT",
+      "TestCaseTitle": "Verify that valid user should be able to Login into Webapp.",
+      "TestCaseDescription": null,
+      "TestCaseFile": "LoginBVT.js",
+      "TestCaseType": "BVT",
+      "Priority": 0,
+      "Input": {
+        "Url": "https://testurl/",
+        "Username": "validusername",
+        "Password": "validpwd"
+      },
+      "OutputFile": null
+    }
+  ], 
+   "TotalTestCases": 1
+}
