@@ -10,5 +10,10 @@ Queen is a javascript based functional automation framework based on libraries C
   npm install -g phantomjs
 </p>
 <p>
+  Download PhantomJS http://phantomjs.org/ and extract into C drive.<br/> 
+  Add the system variable: 
+  PHANTOMJS_EXECUTABLE C:\phantomjs-2.1.1-windows\bin\phantomjs
+</p>
+<p>
 //Detailed documentation is in progress..
 </p>
