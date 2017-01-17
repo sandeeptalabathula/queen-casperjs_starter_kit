@@ -2,11 +2,13 @@
  "Environment" : {
     "Name": "INT",
     "Url": "https://testurl/",
-    "ValidUser": {
+    "ValidUser": 
+    {
       "UserName": "validuserid",
       "PassWord": "validpwd"
     },
-    "InValidUser": {
+    "InValidUser": 
+    {
       "UserName": "wronguser",
       "PassWord": "wrongpwd"
     }
